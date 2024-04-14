@@ -1,0 +1,2 @@
+from .ball_detection_training import BallDetectionTraining
+from .keypoints_training import TrainKeypoints

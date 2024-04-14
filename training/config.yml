@@ -1,0 +1,8 @@
+court:
+  learning_rate: 0.001
+  EPOCHS: 20
+  BATCH_SIZE: 16
+  DATA_PATH: 'data'
+ball:
+  model: yolov5l6u.pt
+  epochs: 100
